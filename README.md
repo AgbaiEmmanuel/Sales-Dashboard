@@ -1,4 +1,4 @@
-# Sales Dashbord
+# Sales Dashboard
 Quantum Analytics Sales Dashboard done with Excel
 
 
